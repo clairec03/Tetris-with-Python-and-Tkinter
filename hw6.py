@@ -2,10 +2,8 @@
 # hw6.py
 #
 # Your name: Claire Chen
-# Your andrew id: ccz
 #
 # Your partner's name: Melinda Chen
-# Your partner's andrew id: melindac
 #################################################
 
 import cs112_f21_week6_linter
@@ -15,7 +13,6 @@ from cmu_112_graphics import *
 #################################################
 # Other parts of the homework assignment have been omitted
 # Only the tetris code is included in this file
-#################################################
 #################################################
 # Tetris
 #################################################
